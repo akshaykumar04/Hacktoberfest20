@@ -11,3 +11,8 @@ var profiles = [
     github: "dwiguna81",
   }
 ];
+ {
+    name : "Vaishnav",
+    place : "Edappal, India",
+    github : "vaishnavmohan"
+  }
