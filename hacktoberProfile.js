@@ -14,13 +14,13 @@ var profiles = [
     name: "Shebin KP",
     place: "Kerala, India",
     github: "shebin007",
-  }
+  },
 
   {
     name: "Akash Gadhave",
     place: "Jalna, India",
     github: "Akash2001",
-  }
+  },
   {
     name : "Vaishnav",
     place : "Edappal, India",
