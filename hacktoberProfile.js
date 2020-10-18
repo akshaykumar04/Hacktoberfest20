@@ -9,5 +9,10 @@ var profiles = [
     name: "Dwi Guna",
     place: "Bali, Indonesia",
     github: "dwiguna81",
+  },
+  {
+    name: "Shebin KP",
+    place: "Kerala, India",
+    github: "shebin007",
   }
 ];
