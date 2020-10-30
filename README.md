@@ -2,7 +2,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/akshaykumar04/Hacktoberfest20?color=green) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/akshaykumar04/Hacktoberfest20) ![GitHub contributors](https://img.shields.io/github/contributors-anon/akshaykumar04/Hacktoberfest20)
 
 Happy Hacktoberfest! Hacktoberfest is back :fire: 
-HacktoberProfile is a list of profiles of Hacktoberfest 2019 participants.
+HacktoberProfile is a list of profiles of Hacktoberfest 2020 participants.
 
 Link to webpage: [https://akshaykumar04.github.io/Hacktoberfest20/](https://akshaykumar04.github.io/Hacktoberfest20/)
 
