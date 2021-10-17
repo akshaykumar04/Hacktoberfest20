@@ -26,5 +26,10 @@ var profiles = [
     place : "Edappal, India",
     github : "vaishnavmohan",
   }
+   {
+    name : "Chirantan",
+    place : "Balasore, India",
+    github : "ChirantanTech"
+  }
 ];
 
