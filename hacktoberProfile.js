@@ -4,7 +4,6 @@ var profiles = [
     place: "Bareilly, India",
     github: "akshaykumar04",
   },
-
   {
     name: "Dwi Guna",
     place: "Bali, Indonesia",
@@ -25,7 +24,7 @@ var profiles = [
     name : "Vaishnav",
     place : "Edappal, India",
     github : "vaishnavmohan",
-  }
+  },
    {
     name : "Chirantan",
     place : "Balasore, India",
